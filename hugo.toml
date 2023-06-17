@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Build ATE"
+
+theme = "hugo-book"
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookMenuBundle = '/menu'
